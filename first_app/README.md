@@ -6,3 +6,4 @@ Features:
 * 1 button
 * 6 assets
 
+![alt text](https://github.com/Jitlclarke/Flutter-Applications/blob/main/first_app/assets/images/dice_rollerApp.png)
